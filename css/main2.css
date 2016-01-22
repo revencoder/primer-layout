@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing : content-box;
+}
+
+div.container {
+	text-align: center;
+	padding: 30px;
+	border:2px solid gray;
+	width: 900px;
+	margin: auto;
+	height: 1100px;
+	
+}
+
+p {
+	font-size: 20px;
+	margin: 10px 50px 10px 50px;
+	padding: 20px;
+	border-top:none;
+	border-bottom: none;
+}
+
+
+h2{
+	font-size: 25px;
+	text-align: left;
+	margin: 20px 20px 20px 10px;
+
+}
+
+
+.circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	overflow:hidden;
+	
+}
+.rectangulo{
+	
+	height: 40px;
+	background-color: gray;
+	margin:20px 0px 20px 25px;
+	position: relative;
+}
+
+.uno{
+   width: 500px;
+}
+
+.dos{
+	width: 400px;
+
+}
+
+.tres{
+	width:200px;
+
+}
+
+
+
+span{
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	color:white;
+}
+
+
+.portafolio{
+	
+	margin:10px;
+	
+
+}
+
+.foto{
+
+	float:left;
+	margin: 10px 10px 40px 40px;
+	width: 200px;
+	height:150px;
+
+}
+
